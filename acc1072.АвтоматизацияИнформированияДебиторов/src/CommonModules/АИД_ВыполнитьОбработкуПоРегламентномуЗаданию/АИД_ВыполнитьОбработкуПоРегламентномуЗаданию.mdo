@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a7549835-6c06-48d4-bc6b-26c94e5f57cd">
+  <name>АИД_ВыполнитьОбработкуПоРегламентномуЗаданию</name>
+  <synonym>
+    <key>ru</key>
+    <value>АИД выполнить обработку по регламентному заданию</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

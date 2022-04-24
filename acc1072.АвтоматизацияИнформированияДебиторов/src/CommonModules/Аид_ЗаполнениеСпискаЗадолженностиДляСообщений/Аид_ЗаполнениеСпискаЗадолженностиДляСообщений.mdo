@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="17599db4-ae4c-4852-afe5-5fe2fb52049e">
+  <name>Аид_ЗаполнениеСпискаЗадолженностиДляСообщений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заполнение списка задолженности для сообщений</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

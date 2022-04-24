@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:WSReference xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="35414008-7305-4425-ade7-bd19c26824a9">
+  <producedTypes>
+    <managerType typeId="02cc0bd1-012c-4a84-bb1f-83fd35d7a58c" valueTypeId="a5364eb8-dd65-4cd0-953d-913deddc99fc"/>
+  </producedTypes>
+  <name>Аид_WSСсылка2</name>
+  <locationURL>https://cloud1.businesstech.store/aid_database/ws/ws1.1cws?wsdl</locationURL>
+</mdclass:WSReference>
